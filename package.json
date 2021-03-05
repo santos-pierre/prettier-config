@@ -1,0 +1,16 @@
+{
+  "name": "@wasawp/prettier-config",
+  "version": "1.0.0",
+  "description": "WASAWP organization Prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/santos-pierre/prettier-config.git"
+  },
+  "author": "Santos Pierre <santospierre1305@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santos-pierre/prettier-config/issues"
+  },
+  "homepage": "https://github.com/santos-pierre/prettier-config#readme"
+}
